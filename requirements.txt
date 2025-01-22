@@ -1,0 +1,10 @@
+requests
+fastapi[all]
+sqlalchemy
+pymysql
+mangum
+boto3
+uvicorn
+python-jose
+logging
+pydantic
